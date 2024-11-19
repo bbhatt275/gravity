@@ -6,5 +6,5 @@ Java must be installed in your computer.<br/> Open terminal where you download t
 ```
 java -jar physicsEngine.jar
 ```
-minimum jdk version -- jdk19
+minimum jdk version -- jdk19<br/>
 click on the screen to start simulation
